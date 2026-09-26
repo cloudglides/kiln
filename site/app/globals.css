@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+
+body {
+  background-color: #CCAA88;
+  padding: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+  display : 'flex';
+  justify-content : 'center';
+  align-items: 'top';
+  font-family: 'Serious Sans Nerd Font Mono';
+  font-size: 75;
+}
+
+
+
